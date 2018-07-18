@@ -1,0 +1,8 @@
+var directions = {
+	LEFT_DIRECTION: 'LEFT_DIRECTION',
+	RIGHT_DIRECTION: 'RIGHT_DIRECTION',
+	UP_DIRECTION: 'UP_DIRECTION',
+	DOWN_DIRECTION: 'DOWN_DIRECTION'
+};
+
+module.exports = directions;

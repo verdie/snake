@@ -1,0 +1,24 @@
+{
+  "name": "ConnexionJS",
+  "description": "Mediator library",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "constgen",
+  "main": "src/index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-commonjs": "^0.1.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-jasmine": "latest",
+    "grunt-contrib-jshint": "latest",
+    "grunt-contrib-watch": "latest",
+    "grunt-jsdoc": "latest",
+    "systemjs": "^0.18.11",
+    "systemjs-builder": "^0.13.3"
+  },
+  "scripts": {
+    "test": "grunt test",
+    "build": "grunt build"
+  }
+}
